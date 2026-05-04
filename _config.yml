@@ -1,0 +1,14 @@
+title: "Earth System Prediction Lab"
+description: "Earth System Prediction on Subseasonal to Seasonal Timescales"
+url: "https://ou-esplab.github.io"
+baseurl: "/Research_Website"
+
+# Disable Jekyll processing of these files
+exclude:
+  - "*.WordPress.*.xml"
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# GitHub Pages settings
+plugins: []
